@@ -1,4 +1,4 @@
-import requests #3,08 ders
+import requests 
 from bs4 import BeautifulSoup
 
 url = "http://data.fixer.io/api/latest?access_key=d6a438b48a657738727e52bbf4299352"
